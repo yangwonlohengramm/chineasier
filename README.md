@@ -1,9 +1,9 @@
 # chineasier
 
 
-Welcome to <span style="color:red">*chineasier*</span>, your new go-to tool for learning vocabulary.
+Welcome to **chineasier**, your new go-to tool for learning vocabulary.
 
-Enjoy a blazing-fast, full-featured, spaced-repetition vocabulary learning command-line tool today.
+Enjoy a *blazing-fast, full-featured, spaced-repetition* vocabulary learning command-line tool today.
 
 Pinyin can be substituted for a definition, and you get to type it in camelcase too!
 
